@@ -1,0 +1,14 @@
+# Header 1
+![FinTech](/c/Users/jexib/Downloads/fintech-gettyimages-916358718.jpg)
+
+![FinTech](./images/fintech.jpg)  
+
+## Description
+A README for the table of contents and a nifty database schema.
+
+### ToC
+
+- [code](./code)
+- [data](./data)
+- [images](./images)
+-[references](./references)
